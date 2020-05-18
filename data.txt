@@ -1,0 +1,2 @@
+Data
+The Foursquare API provides most of the data needed to this project, like information about venues around certain neighborhoods and locations of existing hotels. 

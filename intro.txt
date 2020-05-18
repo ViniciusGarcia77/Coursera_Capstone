@@ -1,0 +1,2 @@
+Business Problem
+The idea of this project is to find the best strategic location to open a hotel. Finding the best location and opportunity is one of the key factors that can lead to success when it comes to hotel business. The neighborhood has to be attractive, with nice points of interest for the customer. However, if there is heavy competition from existing hotels, it is more unlikely for the business to turn out successful.
